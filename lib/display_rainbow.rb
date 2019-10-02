@@ -1,4 +1,4 @@
 def  '#display_rainbow'
 end
 
-#display_rainbow = []
+#display_rainbow = ['red','']
